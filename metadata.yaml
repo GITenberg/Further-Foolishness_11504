@@ -1,5 +1,8 @@
 _repo: Further-Foolishness_11504
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leacock, Stephen
@@ -16,6 +19,8 @@ description: First published in 1916, <Further Foolishness</ is a collection of 
   works of literature to life in digital format, upholding the highest standards in
   ebook production and celebrating reading in all its forms. Look for more titles
   in the HarperPerennial Classics collection to build your digital library.</
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11504#Further-Foolishness
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
